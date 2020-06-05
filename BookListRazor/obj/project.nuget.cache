@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VqR5rKLpHuMAgKTiZjBm3+X68XPreq3rOfCkfdl6ftaq261UpVLVLtHRlN95fARi5xFlZtxnrKzIikBNyhY+Q==",
+  "success": true,
+  "projectFilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/BookListRazor.csproj",
+  "expectedPackageFiles": [
+    "/home/amogh/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
