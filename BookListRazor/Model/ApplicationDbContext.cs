@@ -8,7 +8,7 @@ namespace BookListRazor.Model
         {
 
         }
-
+        
         public DbSet<Book> Book { get; set; }
     }
 }
