@@ -365,3 +365,4 @@
 /home/amogh/Documents/Workspace/book-list-razor/BookListRazor/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /home/amogh/Documents/Workspace/book-list-razor/BookListRazor/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /home/amogh/Documents/Workspace/book-list-razor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/index.cshtml.g.cs
+/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/obj/Debug/netcoreapp3.1/Razor/Pages/BookList/Create.cshtml.g.cs

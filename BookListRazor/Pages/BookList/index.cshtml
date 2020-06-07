@@ -25,6 +25,9 @@
                         <th>
                            <label asp-for="Books.FirstOrDefault().Author"></label>
                         </th>
+                        <th>
+                           <label asp-for="Books.FirstOrDefault().ISBN"></label>
+                        </th>
                     </tr>
                     @foreach (var book in Model.Books)
                     {
@@ -34,6 +37,9 @@
                             </td>
                             <td>
                                 @Html.DisplayFor(m=>book.Author)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m=>book.ISBN)
                             </td>
                             <td>
                                 <button class="btn btn-danger btn-sm text-white">Delete</button>

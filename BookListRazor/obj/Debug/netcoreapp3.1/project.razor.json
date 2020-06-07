@@ -20536,6 +20536,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/Pages/BookList/Create.cshtml",
+      "TargetPath": "Pages\\BookList\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
