@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/UFtcz11Cd+N2d8HYvh27oRAEBSHPFsxq2lHNJ7ijA4OgGNmfMnno8c7E22OU/aLcAL+GAEBtvi3lrpi3PCoUA==",
+  "dgSpecHash": "X31qIN62ilfnBIan5+IIeH2Ef3tus4zt+b2Zzet0Vd7g1K+OpAdBBlhrDtce0i+jQbuyC9CmwRD7NHG+p09xzA==",
   "success": true,
   "projectFilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/BookListRazor.csproj",
   "expectedPackageFiles": [
@@ -113,8 +113,7 @@
     "/home/amogh/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/amogh/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/amogh/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/home/amogh/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "/home/amogh/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "/home/amogh/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
