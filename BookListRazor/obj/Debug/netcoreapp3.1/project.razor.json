@@ -20526,6 +20526,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/Pages/BookList/ Upsert.cshtml",
+      "TargetPath": "Pages\\BookList\\ Upsert.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/amogh/Documents/Workspace/book-list-razor/BookListRazor/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
